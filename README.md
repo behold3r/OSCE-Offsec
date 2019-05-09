@@ -1,1 +1,33 @@
 # OSCE-Offsec
+
+Repositório criado com o objetivo de compartilhar informações que tenham sido úteis durante o período de estudo para a certificação, histórico de apps detonados e scripts malacos. 
+
+Link com desconto (25%) do curso SecurityTube Linux Assembly64 Expert (SLAE64) - **recomendo muito!**
+http://promo.securitytube-training.com/slae64092015
+
+**Escopo do OSCE:**
+'''- Web Application Testing
+- PE File Modification
+- Antivirus Bypass
+- ASLR Bypass
+- Egg Hunters In-Depth
+- Finding Zero-Days
+- Structured Exception Handlers
+- GRE Tunneling'''
+
+## Reviews de terceiros
+
+https://netsec.ws/?p=517 </br>
+https://medium.com/@david.valles/the-road-to-osce-40b4c01db666 </br>
+https://coffeegist.com/security/my-osce-review/
+
+## Guias de preparo e estudo (só lenda!)
+
+https://tulpa-security.com/2017/07/18/288/ </br>
+https://stacktrac3.co/category/osce-prep/ </br>
+https://www.abatchy.com/2017/03/osce-study-plan </br>
+
+## Tutoriais indispensáveis
+
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ </br>
+http://www.securitysift.com/windows-exploit-development-part-1-basics/ </br>
