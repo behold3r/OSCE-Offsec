@@ -6,14 +6,16 @@ Link com desconto (25%) do curso SecurityTube Linux Assembly64 Expert (SLAE64) -
 http://promo.securitytube-training.com/slae64092015
 
 **Escopo do OSCE:**
-'''- Web Application Testing
+'''
+- Web Application Testing
 - PE File Modification
 - Antivirus Bypass
 - ASLR Bypass
 - Egg Hunters In-Depth
 - Finding Zero-Days
 - Structured Exception Handlers
-- GRE Tunneling'''
+- GRE Tunneling
+'''
 
 ## Reviews de terceiros
 
