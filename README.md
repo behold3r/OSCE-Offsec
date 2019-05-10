@@ -34,5 +34,9 @@ https://www.abatchy.com/2017/03/osce-study-plan </br>
 https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ </br>
 http://www.securitysift.com/windows-exploit-development-part-1-basics/ </br>
 
-Manipulação de shellcodes:
-http://security.cs.pub.ro/hexcellents/wiki/kb/exploiting/shellcode-walkthrough 
+Manipulação e walkthrough de shellcodes: </br>
+http://security.cs.pub.ro/hexcellents/wiki/kb/exploiting/shellcode-walkthrough </br>
+
+Crash Course - Assembly x86: </br>
+https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf </br>
+
