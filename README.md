@@ -5,6 +5,8 @@ Repositório criado com o objetivo de compartilhar informações que tenham sido
 Link com desconto (25%) do curso SecurityTube Linux Assembly64 Expert (SLAE64) - **recomendo muito!**
 http://promo.securitytube-training.com/slae64092015
 
+![Sofrimento](https://media1.tenor.com/images/60111b61117370b26302b09cbc4d828a/tenor.gif?itemid=7283047)
+
 **Escopo do OSCE:**
 ```
 - Web Application Testing
