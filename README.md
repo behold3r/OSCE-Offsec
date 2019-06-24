@@ -42,3 +42,7 @@ http://security.cs.pub.ro/hexcellents/wiki/kb/exploiting/shellcode-walkthrough <
 Crash Course - Assembly x86: </br>
 https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf </br>
 
+Assembly: </br>
+https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm </br>
+https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf </br>
+
