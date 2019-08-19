@@ -48,5 +48,5 @@ https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-
 
 ROP: </br>
 https://medium.com/@int0x33/day-1-rop-emporium-ret2win-64bit-bb0d1893a3b0
-
+https://bordplate.no/blog/en/post/interactive-rop-tutorial/
 
